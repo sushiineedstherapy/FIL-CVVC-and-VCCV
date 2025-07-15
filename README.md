@@ -9,3 +9,4 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
  |--------|--------------|-----|
  |  a     | kama         | /a/ |
  |e|peke|/e/|
+ |ie|sandal__i__|e|
