@@ -46,4 +46,5 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
   For phoneme "3", or the "English r", they are commonly used in Tagalog when speaking English.
 
 # USTing
+UTAU: Create one or more notes, and split it into different notes to type in CV and VC, or create CV notes and put VC after.
 ![tutorial classic](https://github.com/user-attachments/assets/971c41b8-0d9a-4e98-ba62-af09763be36a)
