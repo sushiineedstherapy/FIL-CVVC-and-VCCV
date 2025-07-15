@@ -42,6 +42,6 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
  |y|iyak|/j/|j|
  |3|"arrow"|/ɹ/|r\|
 
-  For phoneme "r", or the rolled r, it is an allophone of "ɾ", meaning they are both the same sound but differ phonetically.
+  For phoneme "r", or the rolled r, it is an allophone of "ɾ", meaning they are both the same sound but differ phonetically. The "ɾ" consonant is a tap, not a rolled r. It is found in many languages such as Japanese, Spanish, and Tagalog.
   For phoneme "3", or the "English r", they are commonly used in Tagalog when speaking English.
  
