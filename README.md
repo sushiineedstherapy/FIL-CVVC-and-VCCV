@@ -41,4 +41,7 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
  |w|bawat|/w/|w|
  |y|iyak|/j/|j|
  |3|"arrow"|/ɹ/|r\|
+
+  For phoneme "r", or the rolled r, it is an allophone of "ɾ", meaning they are both the same sound but differ phonetically.
+  For phoneme "3", or the "English r", they are commonly used in Tagalog when speaking English.
  
