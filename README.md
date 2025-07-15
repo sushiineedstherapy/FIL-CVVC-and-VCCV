@@ -8,3 +8,4 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
  | Vowels | Example word | IPA |
  |--------|--------------|-----|
  |  a     | kama         | /a/ |
+ |e|peke|/e/|
