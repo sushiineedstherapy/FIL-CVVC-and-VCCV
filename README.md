@@ -49,8 +49,7 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
 UTAU: Create one or more notes, and split it into different notes to type in CV and VC, or create CV notes and put VC after. Click the P2P3 button to crossfade properly.
 ![tutorial classic](https://github.com/user-attachments/assets/971c41b8-0d9a-4e98-ba62-af09763be36a)
 
-OpenUtau: Get cadlaxa's Filipino phonemizer here, and drag and drop the .dll file into the app, or paste it directly in the "Plugins" folder.
-https://github.com/Cadlaxa/OpenUtau/releases/tag/fil-phonemizer-external
+OpenUtau: Use the FIL VCV & CVVC phonemizer. You can change this by clicking DEFAULT on the singer, click "More...", and click "Filipino". 
 Split syllables by adding a "+". To modify the phoneme input, put the desired phonemes in brackets.
 
 ![tutorial openutau](https://github.com/user-attachments/assets/cbbc8174-b7f3-4cc2-a225-6d18e08c5475)
