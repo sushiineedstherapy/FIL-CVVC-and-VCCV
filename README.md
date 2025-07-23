@@ -33,6 +33,7 @@ This repository contains custom made reclists by sushii-p, for Tagalog CVVC and 
  |n|nanay|/n/|n|
  |ng|ingay|/ŋ/|N|
  |p|pasok|/p/|p|
+ |q or '|daan|/ʔ/|?|
  |r|para|/ɾ/|4|
  |rr|aparador|/r/|r|
  |s|sakit|/s/|s|
